@@ -1,0 +1,42 @@
+# Mule-specific
+/.mule
+/.munit
+/target/
+/logs/
+/mule-deploy.properties
+
+# Anypoint Studio-specific
+/.studio/
+/.metadata/
+/.settings/
+/bin/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.hprof
+*.dat
+*.heapdump
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific (e.g., IntelliJ IDEA or Eclipse)
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+*.rej
+*.pyc
+*.pyo
+*.egg-info
+*.lastUpdated
+*.project
+*.classpath
+*.launch
+.settings/
