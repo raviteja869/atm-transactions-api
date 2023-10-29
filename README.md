@@ -1,6 +1,6 @@
 # atm-transactions-api
-ATM Transactions API: Create a RESTful Application with resources for account creation, withdrawal, deposit, and balance checking.
-Certainly! Here's a template for the documentation and presentation of your "ATM Transactions API" project on GitHub:
+ATM Transactions API: A RESTful Application with resources for account creation, withdrawal, deposit, and balance checking. 
+Here's the documentation of "ATM Transactions API" project on GitHub:
 
 ---
 
